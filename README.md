@@ -1,24 +1,2 @@
-# salt_test_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# news_app
-# news_app
-# news_app
-# news_app
-# news_app
-# news_app
-# news_app
-# news_app
+News App
+<img src="https://github.com/chondrogramedia/gramedia_component_plugin/blob/main/documentation/tabbar_unscrolled.gif](https://github.com/Chondro14/news_app/blob/main/screenshoot/Screenshot%202024-04-18%20at%2010.16.25.png" width="256">
